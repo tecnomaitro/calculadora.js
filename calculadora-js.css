@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
 .title {
 	font-family: 'DotGothic16';
-	align-text: center;
+	text-align: center;
 }
 .calculator {
     padding: 10px;
